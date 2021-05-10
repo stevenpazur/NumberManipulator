@@ -1,0 +1,16 @@
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\bin\Debug\net5.0\NumberManipulator.exe
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\bin\Debug\net5.0\NumberManipulator.deps.json
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\bin\Debug\net5.0\NumberManipulator.runtimeconfig.json
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\bin\Debug\net5.0\NumberManipulator.runtimeconfig.dev.json
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\bin\Debug\net5.0\NumberManipulator.dll
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\bin\Debug\net5.0\ref\NumberManipulator.dll
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\bin\Debug\net5.0\NumberManipulator.pdb
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\NumberManipulator.csprojAssemblyReference.cache
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\NumberManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\NumberManipulator.AssemblyInfoInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\NumberManipulator.AssemblyInfo.cs
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\NumberManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\NumberManipulator.dll
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\ref\NumberManipulator.dll
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\NumberManipulator.pdb
+C:\Users\Lntinfotech\Documents\DotNet\NumberManipulator\obj\Debug\net5.0\NumberManipulator.genruntimeconfig.cache
